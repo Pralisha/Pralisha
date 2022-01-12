@@ -1,5 +1,5 @@
 ### Hi there 👋
-##Have a look at the snake
+### Have a look at the snake
 ![Snake gif](https://github.com/Pralisha/Pralisha/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 **Pralisha/Pralisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
